@@ -9,7 +9,10 @@ Welcome to Literature's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :glob:
 
+
+   wenyan/*
 
 
 Indices and tables
