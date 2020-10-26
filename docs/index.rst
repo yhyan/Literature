@@ -13,6 +13,7 @@ Welcome to Literature's documentation!
 
 
    wenyan/*
+   xiandai/*
 
 
 Indices and tables
