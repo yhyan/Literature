@@ -15,6 +15,7 @@ Welcome to Literature's documentation!
    wenyan/*
    xiandai/*
    juzi
+   mingjia/*
 
 Indices and tables
 ==================
