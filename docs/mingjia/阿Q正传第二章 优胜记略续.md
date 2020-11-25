@@ -1,4 +1,4 @@
-[阿Q正传第二章 优胜记略续](https://www.vrrw.net/wx/10111.html)
+#[阿Q正传第二章 优胜记略续](https://www.vrrw.net/wx/10111.html)
 
 然而阿Q虽然常优胜，却直待蒙赵太爷打他嘴巴之后，这才出了名。
 
