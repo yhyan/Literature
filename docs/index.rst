@@ -14,7 +14,12 @@ Welcome to Literature's documentation!
 
    wenyan/*
    xiandai/*
-   mingjia/*
    juzi
+   mingjia/*
 
+Indices and tables
+==================
 
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
